@@ -1,0 +1,32 @@
+Tipo de habitacion : simple
+Tipo de pension : media pension
+Numero de noches: 5
+Numero de personas: 5
+Fecha: 5/5/2015
+Nombre: Rafael
+Apellidos: Buzón
+DNI: 51141979F
+Cuenta Paypal: 458-789-4589
+Tipo de habitacion : doble
+Tipo de pension : pension completa
+Numero de noches: 1
+Numero de personas: 1
+Fecha: 5/5/2016
+Nombre: Alfonso
+Apellidos: Tome
+DNI: 48965789P
+Cuenta Paypal: 4899-4869512
+Tipo de habitacion : simple
+Tipo de pension : media pension
+Numero de noches: 4
+Numero de personas: 4
+Fecha: 4/4/2016
+Nombre: Pepe
+Apellidos: Perez
+DNI: 5489794
+Cuenta Paypal: 458975
+Tipo de habitacion : simple
+Tipo de pension : media pension
+Numero de noches: 5
+Numero de personas: 5
+Fecha: 1/1/2016
